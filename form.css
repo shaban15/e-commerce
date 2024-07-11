@@ -1,0 +1,17 @@
+.form{
+    background-color: aqua;
+    color: black;
+}
+
+.fom{
+    margin-left: 20%;
+    margin-right: 20%;
+    border-color: blue;
+    border-radius: 10px;
+    border-width: 20px;
+    align-items: center;
+}
+textarea{
+    width: 400px;
+    min-height: 200px;
+}
